@@ -1,1 +1,1 @@
-C:/Users/Shann/AppData/Local/Programs/Python/Python313/python.exe c:/Users/Shann/Projects/Text_File_Creator/file_creator.py created this fileC:/Users/Shann/AppData/Local/Programs/Python/Python313/python.exe c:/Users/Shann/Projects/Text_File_Creator/file_creator.py is my favorite color
+Shannon  created this filePink is my favorite color
